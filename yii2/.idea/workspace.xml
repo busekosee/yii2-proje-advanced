@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7c25073-baaa-41b6-a82e-e168e863af0b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/advanced/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/advanced/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/advanced/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/advanced/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/advanced/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/advanced/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/advanced/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/advanced/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/advanced/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/advanced/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/advanced/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/advanced/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/advanced/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/advanced/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/advanced/vendor/composer" />
+      <path value="$PROJECT_DIR$/advanced/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/advanced/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/advanced/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/advanced/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/advanced/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/advanced/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/advanced/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/advanced/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/advanced/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/advanced/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/advanced/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/advanced/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/advanced/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/advanced/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/advanced/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/advanced/vendor/yiisoft/yii2-faker" />
+      <path value="$PROJECT_DIR$/advanced/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/advanced/vendor/yiisoft/yii2-symfonymailer" />
+      <path value="$PROJECT_DIR$/advanced/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/advanced/vendor/yiisoft/yii2-bootstrap5" />
+      <path value="$PROJECT_DIR$/advanced/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/advanced/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/advanced/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/advanced/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/advanced/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/advanced/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/advanced/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/advanced/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/advanced/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/advanced/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/advanced/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/advanced/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/advanced/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/advanced/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/advanced/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/advanced/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/advanced/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/advanced/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/advanced/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/advanced/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/advanced/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/advanced/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/advanced/vendor/codeception/module-yii2" />
+      <path value="$PROJECT_DIR$/advanced/vendor/codeception/module-asserts" />
+      <path value="$PROJECT_DIR$/advanced/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/advanced/vendor/codeception/lib-innerbrowser" />
+      <path value="$PROJECT_DIR$/advanced/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/advanced/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/advanced/vendor/codeception/lib-web" />
+      <path value="$PROJECT_DIR$/advanced/vendor/codeception/module-filesystem" />
+      <path value="$PROJECT_DIR$/advanced/vendor/codeception/codeception" />
+      <path value="$PROJECT_DIR$/advanced/vendor/codeception/lib-asserts" />
+      <path value="$PROJECT_DIR$/advanced/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/advanced/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/advanced/vendor/yiisoft/yii2-bootstrap4" />
+      <path value="$PROJECT_DIR$/advanced/vendor/npm-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/advanced/vendor/ckeditor/ckeditor" />
+      <path value="$PROJECT_DIR$/advanced/vendor/2amigos/yii2-ckeditor-widget" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2SVieEcDPo7vtQb499mrmPtpmeu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/yii2/advanced/backend/views/form&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\yii2\advanced\backend\views\form" />
+      <recent name="C:\xampp\htdocs\yii2\advanced\backend\web" />
+      <recent name="C:\xampp\htdocs\yii2\advanced\yonetim\js" />
+      <recent name="C:\xampp\htdocs\yii2\advanced\yonetim\css" />
+      <recent name="C:\xampp\htdocs\yii2\advanced\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\yii2\advanced\uploads" />
+      <recent name="C:\xampp\htdocs\yii2\advanced\backend\web" />
+      <recent name="C:\xampp\htdocs\yii2\advanced\backend\images1" />
+      <recent name="C:\xampp\htdocs\yii2\advanced\backend\models" />
+      <recent name="C:\xampp\htdocs\yii2\advanced\backend\views\site" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7c25073-baaa-41b6-a82e-e168e863af0b" name="Changes" comment="" />
+      <created>1689238241723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689238241723</updated>
+      <workItem from="1689238242905" duration="2915000" />
+      <workItem from="1689242545273" duration="12997000" />
+      <workItem from="1689314214838" duration="24566000" />
+      <workItem from="1689340952805" duration="1231000" />
+      <workItem from="1689413782760" duration="10504000" />
+      <workItem from="1689521244327" duration="7950000" />
+      <workItem from="1689574171197" duration="25004000" />
+      <workItem from="1689618214542" duration="3396000" />
+      <workItem from="1689661534019" duration="18876000" />
+      <workItem from="1689745797293" duration="190000" />
+      <workItem from="1689746320495" duration="1570000" />
+      <workItem from="1689748594101" duration="23330000" />
+      <workItem from="1689833187848" duration="2044000" />
+      <workItem from="1689836845481" duration="219000" />
+      <workItem from="1689837529667" duration="15955000" />
+      <workItem from="1689859731141" duration="433000" />
+      <workItem from="1689926433346" duration="18318000" />
+      <workItem from="1690107024006" duration="4273000" />
+      <workItem from="1690111673629" duration="6629000" />
+      <workItem from="1690118718200" duration="2731000" />
+      <workItem from="1690177590700" duration="26571000" />
+      <workItem from="1690264524404" duration="3451000" />
+      <workItem from="1690268301509" duration="286000" />
+      <workItem from="1690268603040" duration="2239000" />
+      <workItem from="1690271179947" duration="17634000" />
+      <workItem from="1690352485109" duration="3507000" />
+      <workItem from="1690358423500" duration="5575000" />
+      <workItem from="1690368304867" duration="7382000" />
+      <workItem from="1690376416741" duration="1515000" />
+      <workItem from="1690437638612" duration="2922000" />
+      <workItem from="1690443503751" duration="9779000" />
+      <workItem from="1690536439033" duration="2216000" />
+      <workItem from="1690545109200" duration="1950000" />
+      <workItem from="1690547361145" duration="4046000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
